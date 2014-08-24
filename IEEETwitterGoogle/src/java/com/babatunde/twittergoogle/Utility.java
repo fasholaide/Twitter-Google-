@@ -44,10 +44,10 @@ public class Utility {
 
     public Utility() {
         ConfigurationBuilder builder = new ConfigurationBuilder();
-        builder.setOAuthConsumerKey("coTcSO8Wql7rbXh7CNSNNy2mX");
-        builder.setOAuthConsumerSecret("fkyGIiQb7tSZMgAChtsMtNC4GoP3wLXpRqPThfc9qbRO0E42G5");
-        builder.setOAuthAccessToken("202193994-igJ1f1yfFDf0Nw0W5tgaLBoxVvbLQTlMVbXOmgsf");
-        builder.setOAuthAccessTokenSecret("BWnjdn5bz2XyoHkwSulJAQkfiw6BcANXWsyKDl1AD0oR7");
+        builder.setOAuthConsumerKey("");
+        builder.setOAuthConsumerSecret("");
+        builder.setOAuthAccessToken("");
+        builder.setOAuthAccessTokenSecret("");
         configuration = builder.build();
     }
 
