@@ -31,17 +31,17 @@ public final class GoogleAuthHelper {
      * Please provide a value for the CLIENT_ID constant before proceeding, set
      * this up at https://code.google.com/apis/console/
      */
-    private static final String CLIENT_ID = "13509664549-3sh0chioheie052qcpu86o3jldg6v932.apps.googleusercontent.com";
+    private static final String CLIENT_ID = "";
     /**
      * Please provide a value for the CLIENT_SECRET constant before proceeding,
      * set this up at https://code.google.com/apis/console/
      */
-    private static final String CLIENT_SECRET = "DBDjCqbzy0rJfBh1MpiyMzLJ";
+    private static final String CLIENT_SECRET = "";
 
     /**
      * Callback URI that google will redirect to after successful authentication
      */
-    private static final String CALLBACK_URI = "http://jtes.cloudapp.net:8080/IEEETwitterGoogle/index.jsp";// Come
+    private static final String CALLBACK_URI = "";// Come
     // back
     // to
     // fix
